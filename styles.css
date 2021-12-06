@@ -1,0 +1,113 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'IBM Plex Sans', sans-serif;
+}
+body {
+    background-color: #EAEAEA;
+    color: #7d7d7d;
+    font-size: 14px;
+}
+div {
+    padding: 1.5%;
+}
+div.heading {
+    width: 100%;
+    margin: 18px auto;
+    color: #535353;
+    text-align: center;
+    font-family: inherit;
+    font-size: 18px;
+    padding: 0;
+}
+.page {
+    width: 45%;
+    margin: 0 auto;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 2px 2px 2px 0px #666;
+    margin-top: 17px;
+    margin-bottom: 20px;
+    padding: 1.5%;
+}
+div.box {
+    padding: 5px;
+    padding-top: 4px;
+}
+.matric p, .password p {
+    width: 100%;
+    font-size: 12px;
+    font-weight: bold;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-bottom: 5px;
+}
+div.matric, div.password, div.login {
+    margin-bottom: 11px;
+    padding: 0 0 3px;
+}
+div.links {
+    padding-right: 1.5%;
+}
+div.note {
+    padding: 2px 0;
+    margin-bottom: 10px;
+}
+div.lock {
+    width: 45%;
+    margin: 0 auto;
+    text-align: center;
+    padding: 0px;
+}
+.box input {
+    border: 1px solid #e2e1e1;
+    width: 100%;
+    padding: 7px;
+}
+div.login {
+    padding: 0 0 3px;
+}
+.login input {
+    background-color: #6C7F92;
+    border-width: 0;
+    color: white;
+    padding: 7px;
+}
+.note {
+    padding: 15px;
+    font-size: 13px;
+}
+.note span {
+    font-weight: bold;
+}
+.links {
+    padding: 0;
+    text-align: right;
+    font-size: 13px;
+    margin-top: 35px;
+    margin-bottom: 8px;
+}
+a {
+    text-decoration: none;
+    color: #3695d5;
+}
+footer {
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 94px;
+    border-top: 1px solid #CCCCCC;
+    text-align: right;
+    padding: 1%;
+    font-size: 13px;
+}
+footer p {
+    padding-right: 7px;
+
+}
+a.ulink {
+    color: #6C7F92;
+}
+footer span {
+    color: #000;
+}
